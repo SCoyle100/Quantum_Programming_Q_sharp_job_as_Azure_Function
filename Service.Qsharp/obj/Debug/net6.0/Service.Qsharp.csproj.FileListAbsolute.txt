@@ -1,0 +1,12 @@
+C:\Users\seanc\OneDrive\Desktop\Programming\Azure Functions Q#\Function.Csharp\bin\output\Service.Qsharp.deps.json
+C:\Users\seanc\OneDrive\Desktop\Programming\Azure Functions Q#\Function.Csharp\bin\output\Service.Qsharp.dll
+C:\Users\seanc\OneDrive\Desktop\Programming\Azure Functions Q#\Function.Csharp\bin\output\Service.Qsharp.pdb
+C:\Users\seanc\OneDrive\Desktop\Programming\Azure Functions Q#\Service.Qsharp\obj\Debug\net6.0\Service.Qsharp.csproj.AssemblyReference.cache
+C:\Users\seanc\OneDrive\Desktop\Programming\Azure Functions Q#\Service.Qsharp\obj\Debug\net6.0\Service.Qsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seanc\OneDrive\Desktop\Programming\Azure Functions Q#\Service.Qsharp\obj\Debug\net6.0\Service.Qsharp.AssemblyInfoInputs.cache
+C:\Users\seanc\OneDrive\Desktop\Programming\Azure Functions Q#\Service.Qsharp\obj\Debug\net6.0\Service.Qsharp.AssemblyInfo.cs
+C:\Users\seanc\OneDrive\Desktop\Programming\Azure Functions Q#\Service.Qsharp\obj\Debug\net6.0\Service.Qsharp.csproj.CoreCompileInputs.cache
+C:\Users\seanc\OneDrive\Desktop\Programming\Azure Functions Q#\Service.Qsharp\obj\Debug\net6.0\Service.Qsharp.dll
+C:\Users\seanc\OneDrive\Desktop\Programming\Azure Functions Q#\Service.Qsharp\obj\Debug\net6.0\refint\Service.Qsharp.dll
+C:\Users\seanc\OneDrive\Desktop\Programming\Azure Functions Q#\Service.Qsharp\obj\Debug\net6.0\Service.Qsharp.pdb
+C:\Users\seanc\OneDrive\Desktop\Programming\Azure Functions Q#\Service.Qsharp\obj\Debug\net6.0\ref\Service.Qsharp.dll
